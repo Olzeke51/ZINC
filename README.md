@@ -20,5 +20,5 @@ The 'Terminal' will NOT be VT-100 based!!
 
 FINF is not meant to support a significant amount of the standard FORTH library; it is more of a programming exercise than a implementation of a real language and programming environment. It was coded mostly in a couple of hours, with quick tests here and there. Expect it to be unstable and give erroneous results.
   *It failed to compile with the standard Debian download Arduino 2:1.0.5
-  It compiled and mostly worked using the Arduino.cc Linux 32bit tar download*
+  It compiled and mostly worked using the Arduino.cc Linux 32bit tar download* 1.8.2
   
