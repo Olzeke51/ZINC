@@ -2,10 +2,10 @@
 
 What is it?
 
-ZINC is a mix of:
-    FINF- a simple implementation for a FORTH-like language for the Arduino platform. 
-    an Arduino program (by - credit here) that is CMD  for a cli
-    my code of 'C' based on some OS-type of ideas
+ZINC is a mix of: 
+   a) FINF- a simple implementation for a FORTH-like language for the Arduino platform.  
+   b) an Arduino program (by - credit here) that is CMD  for a cli 
+   c) my code of 'C' based on some OS-type of ideas
     
 ZINC initially targets an Arduino Mega2560; that will be an OBD-II reader for my 2002 Blazer.
     It will take the form of a homebrew 'Data-DSKY' - DSKY being the Apollo computer control panel.
