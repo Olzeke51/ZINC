@@ -6,8 +6,7 @@ ZINC is a mix of:
    a) FINF- a simple implementation for a FORTH-like language for the Arduino platform.
     * Copyright (c) 2005-2011 Leandro A. F. Pereira <leandro@tia.mat.br>
     * Licensed under GNU GPL version 2. 
-   b) an Arduino program CmdArduino by Akiba at Freaklabs.org  for a cli [interface]
-   c) my code of 'C' based on some OS-type of ideas
+   b) my 'C' code based on some OS-type of ideas
     
 ZINC initially targets an Arduino Mega2560; that will be an OBD-II reader for my 2002 Blazer.
     It will take the form of a homebrew 'Data-DSKY' - DSKY being the Apollo computer control panel.
